@@ -26,7 +26,7 @@ This Application steal wifi password !
 py network.py
 ```
 
-> 🔗 Juste je fais une pub a un nouveau project: droprofil.xyz (soon)
+> 🔗 Juste je fais une pub a un nouveau project: droprofil.xyz (soon)<br/>
 > 📧 Venez discord, si vous voulez avoir des explications en vocal. GuyEdit#0990
 
 

@@ -44,6 +44,7 @@ def uuidporfile():
   os.remove("tempfile2.txt")
 
 def main():
+  os.system("cls")
   uuidporfile()
 
 
